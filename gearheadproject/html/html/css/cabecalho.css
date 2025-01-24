@@ -1,0 +1,48 @@
+header {
+  width: 100vw;
+  height: 20vh;
+  background-color: teal;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  gap: 20rem;
+  padding-left: 8rem;
+}
+
+.botao {
+  width: 5vw;
+  border: none;
+  border-radius: 7px;
+  background-color: #3abf65;
+  color: white;
+  font-weight: 600;
+  text-decoration: none;
+  margin: 0 3px;
+}
+
+.botao a {
+  text-decoration: none;
+  appearance: none;
+  color: white;
+}
+
+.botao2 {
+  border: none;
+  border-radius: 7px;
+  background-color: rgb(136, 255, 132);
+  color: white;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.botao2 a {
+  text-decoration: none;
+  color: white;
+}
+
+.buttons{
+  width: 30vw;
+  margin-left: 3px;
+  display: flex;
+  justify-content: center;
+}

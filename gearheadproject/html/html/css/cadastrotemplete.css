@@ -1,0 +1,52 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+header{
+    width: 100vw;
+    height: 20vh;
+    background-color: teal;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    gap: 400px;
+}
+
+section{
+    width: 100vw;
+    height: 85vh;
+}
+.botao{
+    border: none;    
+    border-radius: 7px;
+    background-color: #3abf65;
+    color: white;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+
+.botao a {
+text-decoration: none;
+appearance: none;
+color: white;
+}
+
+.botao2{
+border: none;    
+border-radius: 7px;
+background-color: rgb(136, 255, 132);
+color: white;
+font-weight: 600;
+text-decoration: none;
+}
+
+.botao2 a {
+text-decoration: none;
+color: white;
+}
+
+
